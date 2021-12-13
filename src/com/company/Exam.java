@@ -127,6 +127,7 @@ public class Exam {
             int i1 = a + (int) (Math.random() * b);
             area2.append(String.valueOf(i1) + " - ");
             area2.append(s[i] + "\n");
+
         }
     }
 }
